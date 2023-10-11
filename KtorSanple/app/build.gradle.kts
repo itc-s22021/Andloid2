@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "jp.ac.it_college.std.s22021.ktorsanple"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "jp.ac.it_college.std.s22021.ktorsanple"
